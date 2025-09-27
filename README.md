@@ -15,7 +15,8 @@ This project presents an **interactive Power BI dashboard** that analyzes Apple 
 - `Dashboard.png` → Dashboard preview image  
 
 ## 🖼️ Dashboard Preview
-![alt text](Dashboard-1.png)
+<img width="1184" height="666" alt="image" src="https://github.com/user-attachments/assets/9c860003-8b1c-4405-8ea7-584781c205c8" />
+
 
 ## ⚙️ Tools Used
 - **Power BI** for visualization  
